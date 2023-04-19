@@ -24,7 +24,7 @@ const Intro = () => {
                 </div>
 
                 <button className="button i-button">
-                    Contrátame
+                    Contáctame
                 </button>
                 
                 <div className="i-icons">

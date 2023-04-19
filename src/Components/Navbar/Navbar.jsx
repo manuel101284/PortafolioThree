@@ -22,11 +22,11 @@ const Navbar = () => {
                         <li>Testimonios</li>
                         <li>CV</li>                        
                     </ul>
-                </div>
+                </div>       
                 
-                <button className="button n-button">
+                {/* <button className="button n-button">
                     Contacto
-                </button>
+                </button> */}
             </div>
         </div>
     )
